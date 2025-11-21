@@ -22,7 +22,7 @@ int main()
 	case 1:
 	{
 		int cNumber;
-		int sNumber = rand() % 10 + 1; // 0-10 arasý sayý üretir
+		int sNumber = rand() % 10 + 1; // 0-10 arası sayı üretir
 		cout << "Please enter a number between 1 and 10: ";
 		cin >> cNumber;
 		if (cNumber < 1 || cNumber > 10)
