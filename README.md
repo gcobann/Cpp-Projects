@@ -4,7 +4,7 @@ Bu repository, C++ programlama dilini öğrenme sürecimde geliştirdiğim uygul
 
 Buradaki amacım; C++'ın temellerinden başlayarak Nesne Yönelimli Programlama (OOP), Veri Yapıları ve Algoritmalar konularında kendimi geliştirmek ve öğrendiklerimi koda dökmektir.
 
-## 📂 İçerik Hakkında
+## İçerik Hakkında
 
 Bu depoda, başlangıç seviyesinden ileri seviyeye doğru giden çeşitli konsol uygulamaları bulabilirsiniz. Her proje kendi klasörü içinde yer almaktadır.
 
@@ -15,12 +15,12 @@ Bu depoda, başlangıç seviyesinden ileri seviyeye doğru giden çeşitli konso
 * **OOP (Nesne Yönelimli Programlama):** Sınıflar (`class`), Nesneler (`object`), Kapsülleme.
 * **Algoritmalar:** Matematiksel hesaplamalar, oyun mantıkları ve veri doğrulama.
 
-## 🛠️ Geliştirme Ortamı
+## Geliştirme Ortamı
 
 * **IDE:** Visual Studio 2022
 * **Dil:** C++
 
-## 🚀 Nasıl Çalıştırılır?
+## Nasıl Çalıştırılır?
 
 Her proje bağımsızdır. İncelemek istediğiniz projenin klasörüne gidip `.sln` veya `.cpp` dosyalarını inceleyebilirsiniz.
 
